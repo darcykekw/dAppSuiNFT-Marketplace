@@ -1,4 +1,4 @@
-# Sui NFT Marketplace Frontend
+# Sui NFT Marketplace
 
 A complete React dApp for trading NFTs on the Sui blockchain with wallet integration, minting, marketplace, and admin features.
 
